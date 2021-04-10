@@ -185,10 +185,10 @@ Repères chronologiques
 | Histoire et | Rhétorique  | Histoire et | Rhétorique  |
 | politique   |             | politique   |             |
 +-------------+-------------+-------------+-------------+-------------+
-| **viii**^** |             | « Homère », | 753 :       |             |
-| e**^** s.\  |             | *Iliade *et | **fondation |             |
-| avant\      |             | *Odyssée*  | de Rome et  |             |
-| notre ère** |             |             | royauté**   |             |
+| **viii** |             | « Homère », | 753 :       |             |
+|   |             | *Iliade *et | **fondation |             |
+|       |             | *Odyssée*  | de Rome et  |             |
+|  |             |             | royauté**   |             |
 +-------------+-------------+-------------+-------------+-------------+
 | **vi**^**e* | **Mise en   |             | 510 :       |             |
 | *^** s.**   | place de la |             | **républiqu |             |
